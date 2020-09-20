@@ -9,6 +9,7 @@ winget install Microsoft.Edge
 winget install Google.Chrome
 winget install Microsoft.PowerToys
 winget install GnuWin32.Grep
+winget install GnuWin32.Wget
 winget install GoLang.Go
 winget install Python.Python
 winget install Foxit.FoxitReader
