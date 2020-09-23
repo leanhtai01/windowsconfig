@@ -6,7 +6,6 @@ winget install VideoLAN.VLC
 winget install Lexikos.AutoHotkey
 winget install Rufus.Rufus
 winget install Microsoft.Edge
-winget install Google.Chrome
 winget install Microsoft.PowerToys
 winget install GnuWin32.Grep
 winget install GoLang.Go
