@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass "&.\remove_junk_apps.ps1"
