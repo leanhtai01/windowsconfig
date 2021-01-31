@@ -14,7 +14,10 @@ $app_list = @(
 	"Microsoft.WindowsMaps",
 	"Microsoft.MSPaint",
 	"Microsoft.SkypeApp",
-	"Microsoft.MicrosoftSolitaireCollection"
+	"Microsoft.MicrosoftSolitaireCollection",
+	"Microsoft.WindowsCamera",
+	"Microsoft.WindowsAlarms",
+	"Microsoft.GetHelp"
 )
 
 foreach ($app in $app_list) {
