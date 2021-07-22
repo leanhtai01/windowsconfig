@@ -5,6 +5,9 @@
 
 ;;; Code:
 
+;; set default startup directory
+(setq default-directory "C:/Users/leanhtai01/")
+
 ;; set initial windows's size
 (when window-system
   ;; (set-frame-position (selected-frame) 0 0)
